@@ -1,0 +1,128 @@
+:root {
+	--the-green: rgb(51, 181, 51);
+	--off-white: rgb(245, 245, 245);
+	--the-dark: rgb(20, 20, 20);
+	--the-blue: rgb(77, 115, 152);
+}
+
+/* 1. Generals */
+
+body {
+	background-color: var(--off-white);
+	font-family: Trebuchet MS, serif;
+	text-align: justify;
+    margin: 0;
+}
+
+h1, h2, h3, h4 {
+	font-family: Didot, serif;
+}
+
+main h1, h2 {
+	color: var(--the-blue);
+}
+
+header h1 {
+	display: inline-block;
+	font-size: 3.75vw;
+	margin: 0;
+	padding: 0;
+}
+
+header h3 {
+	display: inline-block;
+	font-size: 20px;
+    margin-top: 0.5vw;
+	transform: translate(0, -30%);
+}
+
+.button {
+	display: inline-block;
+	position: relative;
+	left: 50%;
+	transform: translate(-50%, 0);
+
+	height: 30px;
+	line-height: 30px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+
+	border: 2px solid var(--the-dark);
+	border-radius: 17px;
+
+	color: var(--the-dark);
+	font-family: Didot, serif;
+	font-size: large;
+}
+
+.button:hover {
+	border: 2px solid var(--off-white);
+	color: var(--off-white);
+	background-color: var(--the-blue);
+	cursor: pointer;
+}
+
+/* 2. Header */
+
+header {
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: var(--off-white);
+	color: var(--the-blue);
+	border-bottom: 1px solid var(--the-blue)
+}
+
+.head-img {
+	width: 100%;
+}
+
+.head-img-narrow {
+	width: 100%;
+}
+
+.navbar {
+	height: 5vw;
+    padding-top: 0;
+	padding-left: 2.5vw;
+}
+
+a {
+	color: var(--the-blue);
+    text-decoration: none;
+}
+
+a:hover {
+	color: var(--the-dark);
+	cursor: pointer;
+}
+
+.current {
+	color: var(--the-green);
+	cursor: pointer;
+}
+
+/* 3. Main */
+
+main {
+	left: 0;
+	width: 95%;
+	padding: 2.5%;
+    padding-top: 0.5%;
+	display: block;
+	overflow: auto;
+}
+
+/* 4. Footer */
+
+footer {
+	position: relative;
+	background-color: var(--off-white);
+	color: var(--the-blue);
+	font-family: Didot, serif;
+	height: 6vw;
+	line-height: 6vw;
+	padding-left: 5vw;
+	border-top: 1px solid var(--the-blue)
+}
