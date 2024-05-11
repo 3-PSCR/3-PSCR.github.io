@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Making of a Segment
+title: Segment Manufacture
 ---
-
-# Segment Manufacture
 
 This page explains the manufacturing method for a six-chambered silicone soft robotic segment with Kevlar reinforcement. In the below, it is made of [Smooth-On© EcoFlex™ 00-50](https://www.smooth-on.com/products/ecoflex-00-30/), which gives it a maximum supported pressure of around 100 kPa, although from experimentation there is little extra bending above 80 kPa. An accompanying video is provided here to better explain the steps.
 

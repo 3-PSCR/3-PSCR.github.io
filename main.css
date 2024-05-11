@@ -107,11 +107,16 @@ a:hover {
 
 main {
 	left: 0;
-	width: 95%;
-	padding: 2.5%;
+	width: 60%;
+	padding: 20%;
+	padding-bottom: 0;
     padding-top: 0.5%;
 	display: block;
 	overflow: auto;
+}
+
+main img {
+	max-height: 60vh;
 }
 
 /* 4. Footer */
