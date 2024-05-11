@@ -3,7 +3,7 @@ layout: page
 title: Segment Manufacture
 ---
 
-This page explains the manufacturing method for a six-chambered silicone soft robotic segment with Kevlar reinforcement. In the below, it is made of [Smooth-On© EcoFlex™ 00-50](https://www.smooth-on.com/products/ecoflex-00-30/), which gives it a maximum supported pressure of around 100 kPa, although from experimentation there is little extra bending above 80 kPa. An accompanying video is provided here to better explain the steps.
+This page explains the manufacturing method for a six-chambered silicone soft robotic segment with Kevlar reinforcement. In the below, it is made of [Smooth-On© EcoFlex™ 00-50](https://www.smooth-on.com/products/ecoflex-00-50/), which gives it a maximum supported pressure of around 100 kPa, although from experimentation there is little extra bending above 80 kPa. An accompanying video is provided here to better explain the steps.
 
 Please feel free to use this manufacturing process where helpful, citing this page.
 
@@ -52,7 +52,7 @@ Note that, with the exception of the 7mmOD tubes (where it is optional but not r
 - [9mm OD brass tubes](https://www.amazon.co.uk/gp/product/B0B5D232RD). At least 3, but 6 is best for convenience. At least 50mm longer than the segment being made.
 - [7mm OD tubes](https://www.amazon.co.uk/gp/product/B09GF9V2FZ/). 6 are required. Again, at least 50mm longer than the segment.
 - Silicone air hoses. [2mmOD food grade tubes](https://www.amazon.co.uk/gp/product/B0C5824VC6/) were used.
-- Your chosen silicone. As above, [EcoFlex 50](https://www.smooth-on.com/products/ecoflex-00-30/) was used.
+- Your chosen silicone. As above, [EcoFlex 50](https://www.smooth-on.com/products/ecoflex-00-50/) was used.
 - Silicone glue.
 
 ### 3D Printed Components
@@ -61,7 +61,7 @@ PETG was used as it was found to be suitably robust. If silicone will not be cur
 
 ![Untitled](img/Untitled%201.png)
 
-**From the Actuator Cores Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/75fa9e217d92debf440e9fa3/e/84a4a0b73eda3f01f6936ff5):**
+**From the Actuator Cores Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/4b6f37f9295e9af57b62f8ad/e/84a4a0b73eda3f01f6936ff5):**
 
 **In the Large Bore configuration with Tube Mounts on Clamp ticked:** (print half the number of Pins and Clamp Items if using only 3x 9mmOD tubes).
 
@@ -79,14 +79,14 @@ PETG was used as it was found to be suitably robust. If silicone will not be cur
 
 - 2x Clamp Item
 
-**From the Main Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/75fa9e217d92debf440e9fa3/e/62c24f13fdfc238956b9c5e5):**
+**From the Main Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/4b6f37f9295e9af57b62f8ad/e/62c24f13fdfc238956b9c5e5):**
 
 - 3x Mould Wall
 - 1x Base
 - 1x Top Clamp
 - 1x Round Clamp
 
-**From the End Cap Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/75fa9e217d92debf440e9fa3/e/fe7bc889f81b8c10a949dc60):**
+**From the End Cap Mould part studio, [here](https://cad.onshape.com/documents/fd21cb60026f1c393fb2e134/v/4b6f37f9295e9af57b62f8ad/e/fe7bc889f81b8c10a949dc60):**
 
 - 1x Cap Mould in Blank configuration
 - 1x Cap Mould in Tubes configuration
