@@ -3,7 +3,7 @@ layout: page
 title: Segment Manufacture
 ---
 
-This page explains the manufacturing method for a six-chambered silicone soft robotic segment with Kevlar reinforcement. In the below, it is made of [Smooth-On© EcoFlex™ 00-50](https://www.smooth-on.com/products/ecoflex-00-50/), which gives it a maximum supported pressure of around 100 kPa, although from experimentation there is little extra bending above 80 kPa. An accompanying video is provided here to better explain the steps.
+This page explains the manufacturing method for a six-chambered silicone soft robotic segment with Kevlar reinforcement. In the below, it is made of [Smooth-On© EcoFlex™ 00-50](https://www.smooth-on.com/products/ecoflex-00-50/), which gives it a maximum supported pressure of around 100 kPa, although from experimentation there is little extra bending above 80 kPa. An accompanying video is provided [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ) to better explain the steps.
 
 Please feel free to use this manufacturing process where helpful, citing this page.
 
@@ -93,7 +93,7 @@ PETG was used as it was found to be suitably robust. If silicone will not be cur
 
 # A. Chamber Reinforcement
 
-The first step is to make and prepare the ‘cores,’ which will become the reinforcement within the segment. At this stage, the following is required:
+The first step is to make and prepare the ‘cores,’ which will become the reinforcement within the segment. The accompanying video section can be found [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ&t=16s). At this stage, the following is required:
 
 - 9mmOD tubes
 - Kevlar string
@@ -109,7 +109,7 @@ The first step is to make and prepare the ‘cores,’ which will become the rei
 
 # B. Cast Core Outer Layer
 
-Now we cast silicone over the wrapped tubes to encase them. In C we will cast the insides of the chambers - this has to be done in a separate step. The following is required:
+Now we cast silicone over the wrapped tubes to encase them. In C we will cast the insides of the chambers - this has to be done in a separate step. The accompanying video section can be found [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ&t=166s). The following is required:
 
 - 2x Casing Top
 - 2x Casing Bottom
@@ -131,7 +131,7 @@ Leaving the cores horizontal during curing was found to cause significant air ga
 
 # C. Cast Core Inner Layer
 
-We now remove the 9mmOD tubes and replace them with 7mmOD tubes to cast the final inner wall of the segments. The following is required:
+We now remove the 9mmOD tubes and replace them with 7mmOD tubes to cast the final inner wall of the segments. The accompanying video section can be found [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ&t=387s). The following is required:
 
 - The moulds from above, once the silicone has cured
 - 6x 7mmOD tubes
@@ -155,7 +155,7 @@ We now remove the 9mmOD tubes and replace them with 7mmOD tubes to cast the fina
 
 # D. Joining the cores - casting the main segment
 
-Here we take the six cores and cast them together into the main segment. We use the following:
+Here we take the six cores and cast them together into the main segment. The accompanying video section can be found [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ&t=817s). We use the following:
 
 - 6x cores cast above
 - 3x Mould Wall
@@ -178,7 +178,7 @@ Insufficient care at steps 21. or 36. was found to result in significant damage 
 
 # E. Capping the Chambers
 
-The end caps can now be cast onto the segment. The following was used:
+The end caps can now be cast onto the segment. The accompanying video section can be found [here](https://www.youtube.com/watch?v=OZO1ZJPx1xQ&t=1028s). The following was used:
 
 - The segment from D.
 - 1x Cap Mould in Blank configuration
