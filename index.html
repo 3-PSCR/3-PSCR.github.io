@@ -15,9 +15,11 @@
             <img class="head-img" src="img/header.png">
             <div class="navbar">
                 <a href="index.html"><h1>3-PSCR</h1></a>
-                {% for page in site.subsystems %}
-                <h3>&nbsp; &nbsp; &bull; &nbsp; &nbsp;</h3>
-                <a href="{{ page.url }}"><h3>{{ page.title }}</h3></a>
+                {% for page in site.pages %}
+                    {% if page.title %}
+                        <h3>&nbsp; &nbsp; &bull; &nbsp; &nbsp;</h3>
+                        <a href="{{ page.url }}"><h3>{{ page.title }}</h3></a>
+                    {% endif %}
                 {% endfor %}
             </div>
         </header>
