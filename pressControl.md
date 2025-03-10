@@ -12,5 +12,3 @@ Inflation Mode
 Deflation Mode
 
 The pressure control algorithm designed is available [here](https://github.com/3-PSCR/Pressure-Control).
-
-This project was designed and submitted as part of a Master's Project. Full documentation will be made available once marking has concluded.
